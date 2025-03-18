@@ -1,0 +1,1 @@
+# template-hotel-2
